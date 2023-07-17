@@ -260,6 +260,7 @@ a{
     font-size: 32px;
   }
   p {
+      Padding:5px;
     font-size: 20px;
   }
   span {
