@@ -261,7 +261,7 @@ a{
   }
   p {
       Padding:5px;
-    font-size: 20px;
+    font-size: 15px;
   }
   span {
     font-size: 24px;
