@@ -297,7 +297,7 @@ a{
     font-size: 24px;
   }
   span {
-    font-size: 24px;
+    font-size: 15px;
   }
   button {
     color: white;
