@@ -304,6 +304,7 @@ a{
     justify-content: center;
     display: flex;
     overflow: hidden;
+    padding:5px;
   }
   h2 {
     font-size: 32px;
@@ -317,7 +318,7 @@ a{
   }
   p {
     color: rgba(30, 30, 30, 0.71);
-    font-size: 18px;
+    font-size: 15px;
   }
   h3 {
     color: black;
