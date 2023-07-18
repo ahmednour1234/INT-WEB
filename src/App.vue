@@ -1,4 +1,7 @@
 <template>
+  <head>
+  <link rel="icon" href="@/assets/logo.png">
+    </head>
   <header class="header scroll-header" id="header">
     <nav class="nav container">
       <div class="hide">
