@@ -24,7 +24,7 @@
       flex-direction: column;
       justify-content: flex-start;
       align-items: flex-start;
-      gap: 70px;
+      gap: 20%;
       display: inline-flex;
       padding-top: 30px;
     "
