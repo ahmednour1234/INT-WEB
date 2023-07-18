@@ -142,7 +142,7 @@ export default {
 <style lang="scss" scoped>
 nav {
   align-items: center;
-  gap: 50px;
+  gap: 30px;
   display: inline-flex;
   padding-left: 10%;
   padding-top: 5px;
