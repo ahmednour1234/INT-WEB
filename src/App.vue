@@ -140,7 +140,7 @@ export default {
        link: [
              {
                  rel: "icon",
-                 href: require("@/assets/logo.png")
+                 href: require("./assets/logo.png")
              },
           ]
        }
