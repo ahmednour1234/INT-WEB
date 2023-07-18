@@ -101,6 +101,15 @@
 </template>
 <script>
 export default {
+   head: {
+       link: [
+             {
+                 rel: "icon",
+                 href: require("./assets/logo.png")
+             },
+          ]
+       }
+   },
   name: "HelloWorld",
   methods: {
     openMenu() {
@@ -136,15 +145,6 @@ export default {
       window.addEventListener("scroll", scrollActive);
     },
   },
-   head: {
-       link: [
-             {
-                 rel: "icon",
-                 href: require("./assets/logo.png")
-             },
-          ]
-       }
-   }
 };
 </script>
 
