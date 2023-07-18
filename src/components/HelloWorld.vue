@@ -48,18 +48,10 @@
             display: flex;
           "
         >
-          <div
-            id="service"
-            style="
-              color: #1924b5;
-              font-size: 48px;
-              font-family: Inter;
-              font-weight: 800;
-              word-wrap: break-word;
-            "
+          <h1
           >
             Our 4 Services
-          </div>
+          </h1>
         </div>
         <div
           style="
@@ -589,17 +581,10 @@
             display: flex;
           "
         >
-          <div
-            style="
-              color: #1924b5;
-              font-size: 48px;
-              font-family: Inter;
-              font-weight: 800;
-              word-wrap: break-word;
-            "
+          <h1
           >
             Career Projects
-          </div>
+          </h1>
         </div>
       </div>
       <router-link to="/career">
@@ -667,6 +652,13 @@ h2{
   font-weight: 900;
   word-wrap: break-word;
 }
+  h1{
+   color: #1924b5;
+              font-size: 48px;
+              font-family: Inter;
+              font-weight: 800;
+              word-wrap: break-word;
+  }
 span {
   color: #1924b5;
   font-size: 96px;
@@ -735,6 +727,9 @@ span {
   }
   h2 {
     font-size: 48px;
+  }
+  h1{
+  font-size:32px;
   }
   h3{
   font-size:20px;
