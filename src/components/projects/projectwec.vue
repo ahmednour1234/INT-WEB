@@ -287,6 +287,7 @@ video {
     overflow: hidden;
     justify-content: center;
     display: flex;
+     padding:5px;
   }
   h2 {
     font-size: 32px;
@@ -300,7 +301,7 @@ video {
   }
   p {
     color: rgba(30, 30, 30, 0.71);
-    font-size: 18px;
+    font-size: 15px;
   }
   h3 {
     color: black;
