@@ -79,7 +79,7 @@
           and determine their level.
         </p>
         <div>
-          <p>This will be the user interface it has</p>
+          <p>2- This will be the user interface it has</p>
           <span
             style="
               color: rgba(30, 30, 30, 0.71);
@@ -99,13 +99,6 @@
         </div>
         <p>3- It makes it easier for students to study.</p>
         <p
-          style="
-            color: rgba(30, 30, 30, 0.71);
-            font-size: 24px;
-            font-family: Inter;
-            font-weight: 600;
-            word-wrap: break-word;
-          "
         >
           4- Reduces the cost of studying for students and saves teachers'
           effort.
