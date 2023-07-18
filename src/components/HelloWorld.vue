@@ -11,7 +11,7 @@
     "
   >
     <div class="frame2" style="text-align: center; margin-botoom: 10px">
-      <p>WEB APPS DEVELOPMENT <br />FOR YOUR <br /><span>BUSINESS</span></p>
+      <h2>WEB APPS DEVELOPMENT <br />FOR YOUR <br /><span>BUSINESS</span></h2>
     </div>
     <router-link to="contact">
       <button type="submit">Start a Project</button>
@@ -104,28 +104,14 @@
             display: flex;
           "
         >
-          <div
-            style="
-              color: black;
-              font-size: 32px;
-              font-family: Inter;
-              font-weight: 600;
-              word-wrap: break-word;
-            "
+          <h3
           >
             Custom Software Development
-          </div>
-          <div
-            style="
-              color: rgba(30, 30, 30, 0.81);
-              font-size: 24px;
-              font-family: Inter;
-              font-weight: 500;
-              word-wrap: break-word;
-            "
+          </h3>
+          <h4
           >
             Web Applications
-          </div>
+          </h4>
         </div>
         <img style="width: 400px; height: 267.09px" src="@/assets/image1.png" />
       </div>
@@ -146,17 +132,10 @@
             display: inline-flex;
           "
         >
-          <div
-            style="
-              color: black;
-              font-size: 24px;
-              font-family: Inter;
-              font-weight: 500;
-              word-wrap: break-word;
-            "
+          <p
           >
-            Discovery Phase ( Business logic and architecture Investigation).
-          </div>
+            1- Discovery Phase ( Business logic and architecture Investigation).
+          </p>
         </div>
         <div
           style="
@@ -166,18 +145,11 @@
             display: inline-flex;
           "
         >
-          <div
-            style="
-              color: black;
-              font-size: 24px;
-              font-family: Inter;
-              font-weight: 500;
-              word-wrap: break-word;
-            "
+          <p
           >
-            Web development( Web develop top-notch and scalable system<br />with
+           2- Web development( Web develop top-notch and scalable system<br />with
             efficient code base using Vue and PHP).
-          </div>
+          </p>
         </div>
         <div
           style="
@@ -187,17 +159,10 @@
             display: inline-flex;
           "
         >
-          <div
-            style="
-              color: black;
-              font-size: 24px;
-              font-family: Inter;
-              font-weight: 500;
-              word-wrap: break-word;
-            "
+          <p
           >
-            Quality assurance ( MQA & AQA).
-          </div>
+           3- Quality assurance ( MQA & AQA).
+          </p>
         </div>
         <div
           style="
@@ -207,17 +172,10 @@
             display: inline-flex;
           "
         >
-          <div
-            style="
-              color: black;
-              font-size: 24px;
-              font-family: Inter;
-              font-weight: 500;
-              word-wrap: break-word;
-            "
+          <p
           >
-            Security.
-          </div>
+            4- Security.
+          </p>
         </div>
       </div>
     </div>
@@ -268,28 +226,14 @@
               display: flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 32px;
-                font-family: Inter;
-                font-weight: 600;
-                word-wrap: break-word;
-              "
+            <h3
             >
               Create and Design Database
-            </div>
-            <div
-              style="
-                color: rgba(30, 30, 30, 0.81);
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            </h3>
+            <h4
             >
               Database
-            </div>
+            </h4>
           </div>
           <img
             style="width: 400px; height: 266.45px"
@@ -313,17 +257,10 @@
               display: inline-flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            <p
             >
-              Discovery Phase ( Business logic and architecture Investigation).
-            </div>
+              1- Discovery Phase ( Business logic and architecture Investigation).
+            </p>
           </div>
           <div
             style="
@@ -333,18 +270,11 @@
               display: inline-flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            <p
             >
-              Create Database( create database top-notch and security system<br />with
+              2- Create Database( create database top-notch and security system<br />with
               efficient relations base using Oracle and Mysql).
-            </div>
+            </p>
           </div>
           <div
             style="
@@ -354,17 +284,10 @@
               display: inline-flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            <p
             >
-              Quality assurance ( MQA & AQA).
-            </div>
+              3- Quality assurance ( MQA & AQA).
+            </p>
           </div>
           <div
             style="
@@ -374,17 +297,10 @@
               display: inline-flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            <p
             >
-              Security.
-            </div>
+              4- Security.
+            </p>
           </div>
         </div>
       </div>
@@ -436,28 +352,14 @@
               display: flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 32px;
-                font-family: Inter;
-                font-weight: 600;
-                word-wrap: break-word;
-              "
+            <h3
             >
               Create Website Wordpress
-            </div>
-            <div
-              style="
-                color: rgba(30, 30, 30, 0.81);
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            </h3>
+            <h4
             >
               Web Wordpress
-            </div>
+            </h4>
           </div>
           <img
             style="width: 400px; height: 318.85px"
@@ -481,17 +383,10 @@
               display: inline-flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            <p
             >
-              Discovery Phase ( Business logic and architecture Investigation).
-            </div>
+              1- Discovery Phase ( Business logic and architecture Investigation).
+            </p>
           </div>
           <div
             style="
@@ -501,18 +396,11 @@
               display: inline-flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            <p
             >
-              Create Wordpress( create web top-notch and security system<br />with
+              2- Create Wordpress( create web top-notch and security system<br />with
               efficient coding base using Wordpress).
-            </div>
+            </p>
           </div>
           <div
             style="
@@ -522,17 +410,10 @@
               display: inline-flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            <p
             >
-              Quality assurance ( MQA & AQA).
-            </div>
+              3- Quality assurance ( MQA & AQA).
+            </p>
           </div>
           <div
             style="
@@ -542,17 +423,10 @@
               display: inline-flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            <p
             >
-              Security.
-            </div>
+              4- Security.
+            </p>
           </div>
         </div>
       </div>
@@ -604,28 +478,14 @@
               display: flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 32px;
-                font-family: Inter;
-                font-weight: 600;
-                word-wrap: break-word;
-              "
+            <h3
             >
               Design User Interface Web
-            </div>
-            <div
-              style="
-                color: rgba(30, 30, 30, 0.81);
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            </h3>
+            <h4
             >
               User Interface
-            </div>
+            </h4>
           </div>
           <img
             style="width: 400px; height: 266.45px"
@@ -649,17 +509,10 @@
               display: inline-flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            <p
             >
-              Discovery Phase ( Business logic and architecture Investigation).
-            </div>
+              1- Discovery Phase ( Business logic and architecture Investigation).
+            </p>
           </div>
           <div
             style="
@@ -669,18 +522,11 @@
               display: inline-flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            <p
             >
-              Create UI( create design web top-notch and quality<br />with
+             2- Create UI( create design web top-notch and quality<br />with
               efficient colors base using Figma and Adobe).
-            </div>
+            </p>
           </div>
           <div
             style="
@@ -690,17 +536,10 @@
               display: inline-flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            <p
             >
-              Quality assurance ( MQA & AQA).
-            </div>
+             3- Quality assurance ( MQA & AQA).
+            </p>
           </div>
           <div
             style="
@@ -710,17 +549,10 @@
               display: inline-flex;
             "
           >
-            <div
-              style="
-                color: black;
-                font-size: 24px;
-                font-family: Inter;
-                font-weight: 500;
-                word-wrap: break-word;
-              "
+            <p
             >
-              Quality Colors.
-            </div>
+              4- Quality Colors.
+            </p>
           </div>
         </div>
       </div>
@@ -827,7 +659,7 @@ button {
 a {
   text-decoration: none;
 }
-p {
+h2{
   color: black;
   font-size: 96px;
   font-family: Inter;
@@ -843,6 +675,27 @@ span {
   font-weight: 900;
   word-wrap: break-word;
 }
+  h3{
+   color: black;
+              font-size: 32px;
+              font-family: Inter;
+              font-weight: 600;
+              word-wrap: break-word;
+  }
+  h4{
+   color: rgba(30, 30, 30, 0.81);
+              font-size: 24px;
+              font-family: Inter;
+              font-weight: 500;
+              word-wrap: break-word;
+  }
+  p{
+        color: black;
+              font-size: 24px;
+              font-family: Inter;
+              font-weight: 500;
+              word-wrap: break-word;
+  }
 .cards {
   justify-content: flex-start;
   align-items: flex-end;
@@ -870,6 +723,7 @@ span {
     overflow: hidden;
     justify-content: center;
     display: flex;
+  padding:5px;
   }
   button {
     color: white;
@@ -879,8 +733,17 @@ span {
     border-radius: 20px;
     width: auto;
   }
-  p {
+  h2 {
     font-size: 48px;
+  }
+  h3{
+  font-size:20px;
+  }
+  h4{
+  font-size:18px;
+  }
+  p{
+  font-size:15px;
   }
   span {
     font-size: 48px;
