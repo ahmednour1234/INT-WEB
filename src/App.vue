@@ -1,7 +1,4 @@
 <template>
-  
-  <link rel="icon" href="@/assets/logo.png" />
-
   <header class="header scroll-header" id="header">
     <nav class="nav container">
       <div class="hide">
@@ -139,6 +136,15 @@ export default {
       window.addEventListener("scroll", scrollActive);
     },
   },
+   head: {
+       link: [
+             {
+                 rel: "icon",
+                 href: require("@/assets/logo.png")
+             },
+          ]
+       }
+   }
 };
 </script>
 
