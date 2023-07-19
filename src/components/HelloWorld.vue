@@ -708,15 +708,20 @@ span {
   display: inline-flex;
 }
 @media (max-width: 641px) {
-  * {
+ * {
     flex-direction: column;
     align-items: center;
-    width: 100%;
-    overflow: hidden;
     justify-content: center;
     display: flex;
+    width: 100%;
   padding:5px;
+    overflow: hidden;
+    animation: fadeIn 5s;
   }
+  @keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
   button {
     color: white;
     font-size: 1rem;
